@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857459897068",
+    "project_id": "rnfnotification-799d1",
+    "storage_bucket": "rnfnotification-799d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857459897068:android:8b76ab8cb56cb741ab2bc9",
+        "android_client_info": {
+          "package_name": "com.rnfnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857459897068-mch9ilcf47hpvv2c9per1ctn12oqs3je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnfnotification",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "857459897068-94fpdlej6snrh837l9b7s74ih252br1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DibjJdx0Zi5Po4F6vx9bcUhrAc9iqns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857459897068-94fpdlej6snrh837l9b7s74ih252br1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
